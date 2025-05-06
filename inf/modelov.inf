@@ -1,4 +1,9 @@
-[sopa] .- grasoso. 
-[queso] .- ajsja. 
-[crema] .- snnsns. 
-[cocacola] .- espuma. 
+[Cuándo aplicar] .- se usa principalmente en proyectos de desarrollo de software y sistemas donde se requiere una alta fiabilidad, trazabilidad y verificación exhaustiva. 
+[Requisitos del sistema] .- Los ingenieros reúnen los requisitos de la empresa y del sistema. En esta fase, es importante definir claramente los resultados que conseguirá la función o características. 
+[Diseño del sistema] .- Los ingenieros diseñan la funcionalidad deseada utilizando un entorno de desarrollo basado en modelos. Las pruebas del modelo en bucle detectan fallas y errores en las primeras fases del proceso. 
+[Requisitos del software] .- Los ingenieros utilizan los requisitos del sistema y el diseño resultante para definir lo que debe conseguir el software. 
+[Implementacion del software] .- Los ingenieros crean y compilan el código que construye el software. Para todo el código que se ha escrito, comienzan las fases de prueba para confirmar que se han logrado los requisitos y que el resultado es robusto y adecuado para la aplicación.
+[Pruebas de integración y cualificación del software] .- La implementación del software suele producirse a escala de cada característica o componente de software. Para obtener una solución de software completa, cada una de las implementaciones a menor escala se integra en un único conjunto compilado que se prueba como una entidad única.
+[Pruebas de integración y cualificación del sistema] .- Un sistema es un conjunto de piezas. Todas las piezas de software y hardware se ensamblan en un sistema completo para las pruebas.
+[Ventajas] .- Claridad y trazabilidad, detección precoz de defectos, gestión rigurosa para entornos estables y bien definidos.
+[Desventajas] .- Rigidez, largos plazos, falta de flexibilidad.

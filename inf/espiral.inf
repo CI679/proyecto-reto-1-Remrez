@@ -1,5 +1,8 @@
+[Cuándo aplicar] .- Es ideal para proyectos que conllevan grandes riesgos y alcances, y donde el presupuesto es un factor decisivo. 
 [Objetivo y determinación alternativa] .- Los objetivos se determinan conjuntamente con el cliente. Al mismo tiempo, se discuten posibles alternativas y se especifican las condiciones marco. 
 [Análisis y evaluación de riesgos] .- Se identifican y evalúan los riesgos potenciales. También se evalúan las alternativas existentes. Los riesgos son registrados, evaluados y luego reducidos utilizando prototipos, simulaciones y softwares de análisis. En este ciclo, existen varios prototipos como plantillas de diseño o componentes funcionales. 
 [Desarrollo y prueba] .- Los prototipos se amplían y se añaden funcionalidades. El código real es escrito, probado y migrado a un entorno de prueba varias veces hasta que el software pueda ser implementado en un entorno productivo.
 [Planificación del siguiente ciclo] .- El siguiente ciclo se planifica al final de cada etapa. Si se producen errores, se buscan soluciones, y si una alternativa es una mejor solución, se prefiere en el siguiente ciclo.
- 
+[Ventajas] .- Estructura cílica, gestión de riesgos, participacion y retroalimentacion del cliente e ideal para proyectos grandes.
+[Desventaas] .- Costoso, bastante complejo difícil gestion del tiempo, muchos pasos a seguir. 
+
