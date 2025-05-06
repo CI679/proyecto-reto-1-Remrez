@@ -54,14 +54,23 @@ function agregar_info() {
 
     if grep -iq "^\[$nombre\]" "$archivo"; then
         echo "El concepto '$nombre' ya existe."
-        return 1
+        read -p "¿Desea editarlo? (s/n): " respuesta
+        if [[ "$respuesta" =~ ^[sS]$ ]]; then
+            read -p "Ingrese la nueva definición para '$nombre': " definicion_nueva
+            # Usa sed para reemplazar toda la línea del concepto
+            sed -i "s|^\[$nombre\].*|[$nombre] .- $definicion_nueva|I" "$archivo"
+            echo "El concepto '$nombre' ha sido actualizado."
+        else
+            echo "No se ha modificado el concepto."
+        fi
+        return 0
     fi
 
     read -p "Ingrese la definición del concepto '$nombre': " definicion
-
     echo "[$nombre] .- $definicion" >> "$archivo"
     echo "Concepto '$nombre' agregado correctamente al archivo '$archivo'."
 }
+
 
 function buscar() {
     archivo="inf/${1}.inf"
