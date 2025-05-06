@@ -1,5 +1,8 @@
-[sopa] .- grasoso. 
-[queso] .- ajsja. 
-[crema] .- snnsns. 
-[pollo] .- frito o asado yum
-[popoposoosaposa] .- sllslsls
+[Cuando aplicar] .- Se utiliza principalmente en proyectos de desarrollo de software donde se necesita adaptarse rápidamente a cambios en los requisitos, entregar software funcional rápidamente y de forma continua. 
+[Planificación] .- En esta etapa se identificarán las historias de usario. Estas son tarjetas donde se detallan las funcionalidades especifícas del software a desarrollar. Las historias de usuario de determinan basándose en las necesidades del cliente, cada historia de divide según su prioridad y se descompone en versiones. La planificación se revisa cada 2 semanas para completar las entregas que el cliente debe examinar.  
+[Diseño] .- En esta fase, se realizan las programaciones. Se buscará que sea un código sencillo, con el flujo indispensable para hacer funcionar la historia del usuario y considerando siempre su experiencia. EL diseño incluye una planificación de programación colaborativa, flexible e integral, para luego pasar a la sguiente fase, donde se evaluará una versión de prueba. 
+[Codificación] .- Este proceso de la metodología xp está pensado para que sea universal. De entrada se trabaja en parejas frente al mismo ordenador. La meta es obtener un código de propiedad colectiva (busca evitar la personalización de códogos a manos de un solo programador).
+[Pruebas] .- Se deben realizar pruebas automáticas continuamente. Al tratarse normalmnete de proyectos a largo plazo, este testeo es clave. Además, el propio cliente puede hacer pruebas, proponer nuevas pruebas e ir validando mini-versiones.
+[Lanzamiento] .- SI hemos llegado a este punto, significa que hemos probado todas las historias de usuario o mini-versiones con éxito, ajustándonos a los requerimientos del cliente. Tenemos un software útil y podemos incorporarlo en el producro.
+[Ventajas] .- Fomenta la comunicación entre clientes y los desarrolladores, permite ahorrar mucho tiempo y dinero, mejora continua de los procesos.
+[Desventajas] .- Dificultad para documentasr, fuerte dependencia de las personas, posibles "roces" con el cliente.
