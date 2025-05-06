@@ -1,4 +1,9 @@
-[sopa] .- grasoso. 
-[queso] .- ajsja. 
-[crema] .- snnsns. 
-[cocacola] .- espuma. 
+[Cuándo aplicar] .- Se usa en proyectos con requisitos claros, estables y bien definidos, donde los cambios son costosos o poco frecuentes.
+[Fase de requerimientos] .- Se definen todos los detalles y necesidades del proyecto en un documento que guiará todo el desarrollo.
+[Fase de diseño] .- Se planifica la arquitectura técnica del sistema, incluyendo componentes y tecnologías a utilizar.
+[Fase de implementación] .- Los desarrolladores construyen el sistema según lo especificado en las fases anteriores.
+[Fase de pruebas] .- El equipo de calidad verifica que el sistema funcione correctamente y corrige errores.
+[Fase de despliegue] .- El producto terminado se entrega a los usuarios finales para su uso.
+[Fase de mantenimiento] .- Se corrigen fallos posteriores y se realizan actualizaciones necesarias.
+[Ventajas] .- Documentación coherente, seguimiento fácil del progreso y administración eficiente del tiempo.
+[Desventajas] .- Los problemas retrasan el cronograma, es difícil retroceder y las pruebas llegan tarde, detectando errores cuando ya son costosos de corregir.
