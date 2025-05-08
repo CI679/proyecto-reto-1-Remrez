@@ -35,7 +35,9 @@ docker build -t proyecto-reto .
 
 ```
 docker run -it proyecto-reto -t
+```
 
+```
 docker run -it proyecto-reto -a
 ```
 
@@ -49,7 +51,9 @@ Bienvenido a la guía rápida de metodologías tradicionales, para continuar sel
             *Modelo V
             *Salir (escriba 'x')
 Ingrese una opcion (escriba el nombre): 
+```
 
+```
  # -a
 Bienvenido a la guía rápida de Agile, para continuar seleccione un tema:
             *SCRUM
